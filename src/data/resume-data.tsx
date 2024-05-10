@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: null,
       description:
-        "In my role as a Test Engineer, I have been consistently delivering impactful contributions that span the entire software development lifecycle. My responsibilities have been diverse, ranging from meticulous analysis of project documents to the strategic planning and production of comprehensive test documentation. Through keen understanding of project designs and requirements, I have crafted and executed tests to ensure a high-quality consistent delivery. My work extends beyond the testing phase, encompassing the identification and communication of defects, along with active participation in triages and resolutions. My role has seen me take charge of internal meetings and engagements with external key partners, where my ability to lead discussions and communicate effectively has played a pivotal role in project alignment. Beyond the expected tasks of a Test Engineer, I have successfully navigate the complexities of ensuring key payment milestones are met, demonstrating a holistic understanding of project dynamics.",
+        "In my current role as a Test Engineer, I have built upon the foundational skills and knowledge acquired during my Technical Graduate program. With a strong foundation in testing methodologies and tools, I now focus on delivering impactful contributions that span the entire software development lifecycle. My responsibilities encompass a range of activities, from meticulous analysis of project documents to strategic planning and production of comprehensive test documentation. Through keen understanding of project designs and requirements, I have crafted and executed tests to ensure high-quality delivery. Additionally, I have taken on leadership roles in internal meetings and engagements with external partners, leveraging my communication skills to drive project alignment. By navigating the complexities of ensuring key payment milestones are met, I have demonstrated a holistic understanding of project dynamics, solidifying my position as a trusted Test Engineer.",
     },
     {
       company: "Leidos",
@@ -65,7 +65,7 @@ export const RESUME_DATA = {
       start: "2019",
       end: "2021",
       description:
-        "During my time on the graduate scheme, I honed my skills in as a Test Engineer, focusing on personal and professional development. Despite the challenges posed by the COVID-19 pandemic, I took initiative in my own learning journey and skill enhancement. Actively participating in training opportunities, I dedicated myself to learning about this new role. I prioritised self-development, acquiring a comprehensive understanding of testing methodologies and tools. This commitment not only fortified my expertise but also contributed to my recognition in the company, where I not only received several recognition awards for my hard work, but also became an essential member of my team. Rather than continuing with the graduate scheme and moving to new projects, I was requested to stay and continue my work within the team.",
+        "As a Technical Graduate, I thrived in my Test Engineer role, leveraging the graduate scheme as a catalyst for personal and professional growth. Despite the challenges posed by the COVID-19 pandemic, I proactively pursued opportunities for self-development, acquiring a deep understanding of testing methodologies and tools through rigorous training and practice. My commitment to learning led to recognition within the company, earning me multiple awards and solidifying my position as an integral team member. By the end of my tenure on the graduate scheme, I had established myself as a valuable asset to the team, paving the way for future growth and responsibilities.",
     },
     {
       company: "Gwent Police",
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2018",
       description:
-        "During this year I assisted Forensic Examiners with case work, while also doing some of my own under supervision. I also worked with the ISO Technical Lead to help the lab acquire ISO 17025 accreditation. In my second week of the internship the lab went through their first evaluation, before I left they had been awarded the accreditation for acquisition as well as the Codes of Practice. I provided assistance in design and implementation for the acquisition and extraction stages. As a part of the extraction stage I evaluated the labs current capabilities and researched in to new software and techniques to keep them up to date. As a result of this they ended up making some big changes to their practices.",
+        "As a Cyber Crime Intern within the Hi-Tech Crime Unit, I played a pivotal role in supporting Forensic Examiners with complex case work, while also contributing to my own projects under close supervision. Notably, I collaborated with the ISO Technical Lead to spearhead the lab's quest for ISO 17025 accreditation, which culminated in a successful evaluation and subsequent award of accreditation for acquisition as well as adherence to industry Codes of Practice.\n\nThroughout my internship, I had the opportunity to design and implement key components of the acquisition and extraction stages. This involved conducting thorough assessments of the lab's current capabilities, researching cutting-edge software and techniques, and presenting findings to inform strategic decisions. As a result, the team was able to make significant changes to their practices, ultimately enhancing their ability to tackle complex cybercrime cases.",
     },
   ],
   skills: [
@@ -120,7 +120,7 @@ export const RESUME_DATA = {
         "Drone Forensics",
       ],
       description:
-        "Contributed in 2019.",
+        "As part of my dissertation research project, I made a contribution to the field of drone forensics by developing and validating novel techniques for extracting valuable forensic artifacts from consumer drones using open-source and hobbyist tools. This pioneering work caught the attention of Interpol, who recognized its significance and sought permission to feature it in their First Responders guide. Through this collaboration, my research was incorporated into a comprehensive resource designed to equip forensic labs and police services with essential knowledge for responding to drone-related incidents. This achievement not only demonstrates my expertise in advanced technologies but also showcases my ability to translate academic research into practical applications that benefit law enforcement agencies worldwide.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -135,7 +135,7 @@ export const RESUME_DATA = {
         "Drone Forensics",
       ],
       description:
-        "Awarded by the British Computer Society in 2019.",
+        "I was honored to receive the Best External Impact Project Prize at the British Computer Society's awards, recognizing my dissertation research on drone forensics as having made a significant impact beyond academia. This award acknowledged the practical applications of my work in the law enforcement community, as demonstrated by its inclusion in Interpol's First Responders guide. This achievement highlights my ability to translate academic research into real-world solutions that benefit society and underscores my commitment to making a tangible difference through technology.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -153,7 +153,7 @@ export const RESUME_DATA = {
         "Python",
         "PyTorch",
       ],
-      description: "Provided by Udacity, this nanodegree gave me the opportunity to learn about and create neural networks for image classification.",
+      description: "I leveraged the AI Programming with Python nanodegree from Udacity to develop hands-on expertise in creating neural networks for image classification using Python. Through this course, I gained a strong foundation in deep learning concepts and practical experience building complex models that can accurately classify images. This achievement showcases my ability to adapt to new technologies and expand my skillset in areas such as machine learning and artificial intelligence.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -168,7 +168,7 @@ export const RESUME_DATA = {
         "Waterfall",
       ],
       description:
-        "A vital qualification offering a comprehensive understanding of testing terminology and concepts applicable across software delivery approaches. Awarded by ISTQB in 2021.",
+        "A vital qualification I successfully completed the Certified Tester Foundation Level certification with ISTQB, demonstrating my understanding of fundamental testing concepts and terminology. This rigorous training program provided me with a deep understanding of software delivery approaches, including Agile and V-model methodologies. This achievement highlights my commitment to professional development in the field of software testing and my ability to apply theoretical knowledge in real-world scenarios.offering a comprehensive understanding of testing terminology and concepts applicable across software delivery approaches. Awarded by ISTQB in 2021.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -186,7 +186,7 @@ export const RESUME_DATA = {
         "Teamwork",
       ],
       description:
-        "This provided a foundational understanding of project management principles and terminology. It covered essential concepts applicaple to delivering projects in the tech industry. Awarded by APM in 2019.",
+        "I earned the Project Fundamentals Qualification from APM, solidifying my grasp of core project management principles and terminology. This qualification equipped me with a comprehensive understanding of essential concepts relevant to delivering projects in the tech industry, including scope, schedule, budgeting, and resource allocation. This achievement demonstrates my ability to apply fundamental project management knowledge to drive successful outcomes in fast-paced technology environments.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -200,7 +200,7 @@ export const RESUME_DATA = {
         "ITIL"
       ],
       description:
-        "A Fundamental qualification that introduces key principles and practices for effective IT service management. It offered a solid understanding of the ITIL Framework, enabling me to contribute to improved service delivery and organisational efficieny. Awarded by PeopleCert/AXELOS in 2019.",
+        "I achieved the ITIL 4 Foundation certificate in IT Service Management from PeopleCert/AXELOS, demonstrating my understanding of the core concepts and best practices for delivering high-quality IT services. Through this certification, I gained insight into the ITIL framework and its application to service management, including incident management, problem management, and change management. This achievement highlights my ability to think strategically about IT service delivery and optimize processes for improved efficiency and customer satisfaction.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -216,7 +216,7 @@ export const RESUME_DATA = {
         "Mobile Forensics",
       ],
       description:
-        "I received training in the use of MSAB for forensic phone analysis, gaining expertise in extracting and analysing digital evidence from mobile devices for investigative purposes. Awarded by Gwent Police in 2017 (expired 2020).",
+        "I obtained advanced training in using MSAB for forensic phone analysis, developing expertise in extracting and analyzing digital evidence from mobile devices to support investigations. This specialized training, awarded by Gwent Police in 2017, equipped me with the skills to extract and interpret data from mobile devices, providing valuable insights for investigative purposes. Although this certification has expired (2020), I remain proficient in the techniques and methodologies learned during my training, ensuring that my expertise remains relevant and effective in supporting investigations.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -232,7 +232,7 @@ export const RESUME_DATA = {
         "Windows Forensics",
       ],
       description:
-        "Attained ACE v6 certification, demonstrating proficiency in digital forensics and investigative analysis. The certification validates skills in utilising AccessData tools for efficient and thorough examination of digital evidence in forensic investigations. Awarded by AccessData in 2017 (expired 2019).",
+        "I achieved the ACE v6 certification, solidifying my expertise in digital forensics and investigative analysis through hands-on proficiency with AccessData tools. This industry-recognized certification demonstrates my ability to utilize AccessData tools for efficient and thorough examination of digital evidence in forensic investigations. Awarded by AccessData in 2017, this achievement showcases my technical skills and analytical capabilities in digital forensics, although the certification has expired (2019).",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -246,7 +246,7 @@ export const RESUME_DATA = {
         "Expert Witness",
       ],
       description:
-        "Awarded by Bond Solon in 2017.",
+        "I underwent comprehensive training in courtroom skills through the Expert Witness training program, led by renowned legal training company Bond Solon. This immersive course equipped me with the expertise and confidence to effectively communicate complex technical information to judges, lawyers, and jurors as an expert witness. By mastering essential courtroom skills, such as presenting evidence, cross-examination, and effective communication, I am now better prepared to provide high-quality testimony in legal proceedings.",
       logo: LeidosLogo,
       link: {
         label: "",
@@ -260,7 +260,7 @@ export const RESUME_DATA = {
         "Expert Witness",
       ],
       description:
-        "Awarded by Bond Solon in 2017.",
+        "I further honed my skills in written evidence through a comprehensive report writing training program with Bond Solon. This course enabled me to craft clear, concise, and compelling reports that effectively communicate complex technical information to various stakeholders. By mastering best practices for report writing, including structuring, summarising, and presenting data, I am now more effective in producing high-quality written evidence that supports investigations and court proceedings.",
       logo: LeidosLogo,
       link: {
         label: "",
