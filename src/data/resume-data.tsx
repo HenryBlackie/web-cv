@@ -12,7 +12,9 @@ export const RESUME_DATA = {
   about:
     "BSc (Hons) Computer Forensics",
   summary:
-    "I am a Computer Forensics Graduate currently working as an I&V Engineer at Leidos. I have a strong interest in technology and always try to keep myself occupied with a few ongoing projects, recently I have been working on developing a web scraping toolkit. I have also recently completed an artificial intelligence nanodegree with Udacity and I am currently undertaking a Cyber Defence training course.",
+    `With a strong background in digital forensics, cybersecurity, and test engineering, I excel at extracting and analysing complex technical information to support investigations and improve organisational efficiency. My expertise spans cutting-edge technologies such as drone forensics, neural networks, and AI-powered tools, and I have developed novel techniques for extracting forensic artifacts from consumer drones. My achievements range from receiving awards for outstanding contributions to the field of digital forensics to developing technical guides for forensic examiners.
+    
+    As a certified computer forensics expert with a background in digital investigations, I am passionate about uncovering the truth from complex digital evidence. With hands-on experience in analysing and presenting digital data for legal proceedings, I bring a unique blend of technical knowledge and analytical skills to every case. My certifications and training demonstrate my commitment to staying up-to-date with industry best practices and standards. I am confident in my ability to leverage my expertise to drive success in any organisation.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/5684989?v=4",
   personalWebsiteUrl: "https://www.henryblackie.co.uk",
   contact: {
@@ -76,7 +78,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2018",
       description:
-        "As a Cyber Crime Intern within the Hi-Tech Crime Unit, I played a pivotal role in supporting Forensic Examiners with complex case work, while also contributing to my own projects under close supervision. Notably, I collaborated with the ISO Technical Lead to spearhead the lab's quest for ISO 17025 accreditation, which culminated in a successful evaluation and subsequent award of accreditation for acquisition as well as adherence to industry Codes of Practice.\n\nThroughout my internship, I had the opportunity to design and implement key components of the acquisition and extraction stages. This involved conducting thorough assessments of the lab's current capabilities, researching cutting-edge software and techniques, and presenting findings to inform strategic decisions. As a result, the team was able to make significant changes to their practices, ultimately enhancing their ability to tackle complex cybercrime cases.",
+        "As a Cyber Crime Intern within the Hi-Tech Crime Unit, I played a pivotal role in supporting Forensic Examiners with complex case work, while also contributing to my own projects under close supervision. Notably, I collaborated with the ISO Technical Lead to spearhead the lab's quest for ISO 17025 accreditation, which culminated in a successful evaluation and subsequent award of accreditation for acquisition as well as adherence to industry Codes of Practice. Throughout my internship, I had the opportunity to design and implement key components of the acquisition and extraction stages. This involved conducting thorough assessments of the lab's current capabilities, researching cutting-edge software and techniques, and presenting findings to inform strategic decisions. As a result, the team was able to make significant changes to their practices, ultimately enhancing their ability to tackle complex cybercrime cases.",
     },
   ],
   skills: [
